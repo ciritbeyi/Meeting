@@ -7,5 +7,7 @@ public class Class1 {
         System.out.println("Hello group 3");
 
         // hello people
+
+        // once again a chance
     }
 }
